@@ -5,7 +5,7 @@ It combines **secure authentication, intelligent chatbot interactions, and healt
 
 ---
 <div align="center">
-    <img src="/demo-photos/screencapture1.png" width="250px"/> 
+    <img src="/demo-photos/screencapture1.png"/> 
 </div>
 
 
