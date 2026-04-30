@@ -4,6 +4,10 @@ MediChat is an AI-powered healthcare assistant built with **Next.js**, designed 
 It combines **secure authentication, intelligent chatbot interactions, and health data tracking** to act as a reliable digital healthcare companion.
 
 ---
+<div align="center">
+    <img src="/demo-photos/screencapture1.png" width="250px"/> 
+</div>
+
 
 ## Key Features
 
@@ -42,6 +46,6 @@ It combines **secure authentication, intelligent chatbot interactions, and healt
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/hit123esh/medichat.git
+git clone https://github.com/super-phantom91/Medichat-AI-Healthcare-Assistant.git
 cd medichat
 npm install
